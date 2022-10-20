@@ -1,0 +1,67 @@
+{"schools":[
+    {
+        "title": "Santa Ana Beauty Academy | Santa Ana | Los Angeles",
+        "field_city": "Santa Ana",
+        "field_exclude_from_rankings": "0",
+        "field_display_name": "Santa Ana Beauty Academy",
+        "field_school_website": "http:\/\/www.saba-ca.com\/",
+        "field_sch_state": "CA",
+        "field_weighted_grad_rate": "90.00",
+        "field_cosmetology_desc": "",
+        "field_editor_description": "",
+        "field_esthetics_desc": "",
+        "field_general_desc": "",
+        "field_makeup_desc": "",
+        "field_nail_tech_desc": "",
+        "field_program_type": "Barbering, Cosmetology, Esthetics\/Skin Care, Nail Technology"
+    },
+    {
+        "title": "Cosmo Beauty Academy | Sacramento | Sacramento \/ Stockton \/ Modesto",
+        "field_city": "Sacramento",
+        "field_exclude_from_rankings": "0",
+        "field_display_name": "Cosmo Beauty Academy",
+        "field_school_website": "http:\/\/www.cosmobeautyacademy.edu",
+        "field_sch_state": "CA",
+        "field_weighted_grad_rate": "75.00",
+        "field_cosmetology_desc": "\u003Cp\u003ECosmo Desc\u003C\/p\u003E\n",
+        "field_editor_description": "",
+        "field_esthetics_desc": "",
+        "field_general_desc": "",
+        "field_makeup_desc": "",
+        "field_nail_tech_desc": "",
+        "field_program_type": "Cosmetology, Esthetics\/Skin Care, Nail Technology"
+    },
+    {
+        "title": "Diamond Beauty College | South El Monte | Los Angeles",
+        "field_city": "South El Monte",
+        "field_exclude_from_rankings": "0",
+        "field_display_name": "Diamond Beauty College",
+        "field_school_website": "http:\/\/www.diamondbeauty.edu",
+        "field_sch_state": "CA",
+        "field_weighted_grad_rate": "75.00",
+        "field_cosmetology_desc": "",
+        "field_editor_description": "",
+        "field_esthetics_desc": "",
+        "field_general_desc": "",
+        "field_makeup_desc": "",
+        "field_nail_tech_desc": "",
+        "field_program_type": "Cosmetology, Esthetics\/Skin Care, Massage Therapy, Nail Technology, Teacher Training"
+    },
+    {
+        "title": "Advance Beauty College | Garden Grove | Los Angeles",
+        "field_city": "Garden Grove",
+        "field_exclude_from_rankings": "0",
+        "field_display_name": "Advance Beauty College",
+        "field_school_website": "http:\/\/www.advancebeautycollege.com\/",
+        "field_sch_state": "CA",
+        "field_weighted_grad_rate": "70.00",
+        "field_cosmetology_desc": "",
+        "field_editor_description": "",
+        "field_esthetics_desc": "",
+        "field_general_desc": "",
+        "field_makeup_desc": "",
+        "field_nail_tech_desc": "",
+        "field_program_type": "Barbering, Cosmetology, Esthetics\/Skin Care, Nail Technology, Teacher Training"
+    }
+]
+}
