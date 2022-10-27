@@ -1,5 +1,6 @@
 {"schools":[
     {
+        "id":"a",
         "title": "Santa Ana Beauty Academy | Santa Ana | Los Angeles",
         "field_city": "Santa Ana",
         "field_exclude_from_rankings": "0",
@@ -16,6 +17,7 @@
         "field_program_type": "Barbering, Cosmetology, Esthetics\/Skin Care, Nail Technology"
     },
     {
+        "id":"b",
         "title": "Cosmo Beauty Academy | Sacramento | Sacramento \/ Stockton \/ Modesto",
         "field_city": "Sacramento",
         "field_exclude_from_rankings": "0",
@@ -32,6 +34,7 @@
         "field_program_type": "Cosmetology, Esthetics\/Skin Care, Nail Technology"
     },
     {
+        "id":"c",
         "title": "Diamond Beauty College | South El Monte | Los Angeles",
         "field_city": "South El Monte",
         "field_exclude_from_rankings": "0",
@@ -48,6 +51,7 @@
         "field_program_type": "Cosmetology, Esthetics\/Skin Care, Massage Therapy, Nail Technology, Teacher Training"
     },
     {
+        "id":"d",
         "title": "Advance Beauty College | Garden Grove | Los Angeles",
         "field_city": "Garden Grove",
         "field_exclude_from_rankings": "0",

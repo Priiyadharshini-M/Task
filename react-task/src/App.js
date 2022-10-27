@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router-dom"
-import { SchoolList } from './components/SchoolList';
+import  SchoolList  from './components/SchoolList';
 
 function App() {
   return (
